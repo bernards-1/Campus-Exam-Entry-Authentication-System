@@ -1,0 +1,11 @@
+cvzone
+ultralytics
+opencv-python
+numpy
+deepface
+streamlit
+torch
+torchvision
+torchaudio
+tensorflow==2.15.0
+pyserial
